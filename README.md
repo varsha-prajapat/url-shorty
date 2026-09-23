@@ -3,8 +3,11 @@
 A full-stack URL shortening application built with Next.js, TypeScript, MongoDB, and DaisyUI.
 
 ## 🚀 Demo
-<video src="./public/url-shorty(1).mp4"></video>
-<video src="./public/url-shorty.mp4"></video>
+
+<video src="./public/url-shorty(1).mp4" controls width="100%"></video>
+
+<video src="./public/url-shorty.mp4" controls width="100%"></video>
+
 
 
 ## 📸 Screenshots

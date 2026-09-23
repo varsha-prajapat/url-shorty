@@ -6,7 +6,7 @@ A full-stack URL shortening application built with Next.js, TypeScript, MongoDB,
 
 <video src="./public/url-shorty(1).mp4" controls width="100%"></video>
 
-<video src="./public/url-shorty.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/b2c3627d-9288-4aec-a479-de238dc2929c" controls width="100%"></video>" controls width="100%"></video>
 
 
 
